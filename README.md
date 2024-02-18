@@ -100,9 +100,9 @@ Limitation & Improvement
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
+The structure of my repository and its contents:
 
-```
+
 ├── README.md                                            <- The top-level README for reviewers of this project
 ├── Shilton_Soi_Phase1_Project.pdf                       <- Narrative documentation of analysis in Jupyter notebook
 ├── ShiltonSoiDS_phase1_Project_Presentation.pdf         <- PDF version of project presentation
