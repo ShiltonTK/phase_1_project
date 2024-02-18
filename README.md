@@ -1,2 +1,1 @@
-Summary
 My project involves conducting analysis on data from IMDB and Box Office to obtain information such as revenue and ratings with respect to genre, film types and studios. This is in order to draw appropriate conclusions in order to inform the studio’s decisions. For instance, I have discovered that short films bring in the most revenue, therefore one of my recommendations is that the studio begins by churning out short videos to bring revenue and to build popularity.
